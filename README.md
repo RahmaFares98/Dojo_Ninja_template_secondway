@@ -1,0 +1,1 @@
+# Dojo_Ninja_template_secondway
