@@ -1,0 +1,102 @@
+body{
+    text-align: center;
+    width :80%;
+}
+#container{
+
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+
+.cont_1{
+    display: flex;
+    margin-left: 25%;
+    flex-direction: row;
+}
+h1,h2{
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    margin-left: 100px;
+    border-top-style:  solid;
+    border-top-color: black;
+
+    }
+.Dojo{
+
+    margin-right: 120px;
+}
+
+input{
+width: 200px;
+position:relative;
+margin-left: 5px;
+border: black;
+border-style:solid;
+}
+
+select{
+    width: 210px;
+    height: 30px;
+    position:relative;
+    margin-left: 40px;
+    border: black;
+    border-style:solid;
+    }
+
+div{
+    margin-top: 10px;
+}
+
+
+
+.btnSubmit{
+    margin-top: 2%;
+    margin-left: -110px;
+    border-style: solid;
+    width: 20%;
+    height: 5%;
+    border-color: black;
+    box-shadow: 3px 4px 7px black;
+}
+.btnSubmit_1{
+    margin-top: 4%;
+    margin-left: -70px;
+    border-style: solid;
+    width: 20%;
+    height: 5%;
+    border-color: black;
+    box-shadow: 3px 4px 7px black;
+}
+
+li{
+position: relative;
+list-style-position: inside;
+list-style-type: square;
+}
+
+.btnDelete{
+
+    margin-left: 100px;
+    border-style: solid;
+    width: 10%;
+    height: 5%;
+    border-color: black;
+    background-color: rgb(216, 208, 208);
+    box-shadow: 3px 4px 7px black;
+}
+
+span{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.cont_2{
+    margin-left: 10%;
+}
